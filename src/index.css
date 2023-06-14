@@ -1,0 +1,45 @@
+.layout {
+    margin: 20px;
+  }
+  
+  .navigation {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  .menu-link:hover {
+    background-color: #ccc;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
+  .footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  }
+  
